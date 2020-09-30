@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![](http://antzuhl.cn:4000/get/@antzuhl.readme)](http://www.antzuhl.cn/)
-
 ![info](https://github-readme-stats.vercel.app/api?username=LY1806620741&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 #### Platform
