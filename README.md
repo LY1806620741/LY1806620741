@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+Hi，you are the ![Visitor Count](https://profile-counter.glitch.me/cxfksword/count.svg) visitor！
+
 ![info](https://github-readme-stats.vercel.app/api?username=LY1806620741&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LY1806620741&layout=compact&hide=html,css,xslt&langs_count=8)
 
 #### Platform
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
